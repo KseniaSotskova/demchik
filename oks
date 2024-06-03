@@ -1,0 +1,46 @@
+
+
+
+
+https://github.com/rasshok/autobd2
+### Запуск проекта
+1. Установите зависимости:
+Bash
+
+pip install flask
+
+2. Инициализируйте базу данных:
+Bash
+
+python initialize_db.py
+
+3. Запустите приложение:
+Bash
+
+python app.py
+
+Этот проект предоставляет базовый функционал для учета заявок на ремонт автомобилей. Вы можете его расширять и улучшать в зависимости от ваших требований.
+
+
+
+
+
+
+https://github.com/DoanDinhNam/pp2021_midterm
+
+
+https://github.com/niotu/IDEA_store
+
+
+https://github.com/saikaldi/FurnitureStore
+
+
+https://github.com/SinaSys/flutter_japanese_restaurant_app
+
+
+https://github.com/Kalpesh209/flutter_furniture_store_app
+
+
+https://github.com/tower0000/android-furniture-store-app
+
+https://github.com/prakashshuklahub/Simple-Note-App-with-Online-Storage
